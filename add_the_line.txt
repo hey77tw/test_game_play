@@ -1,0 +1,5 @@
+1. Add the line
+
+<script src="coi-serviceworker.min.js"></script>
+
+ to full-size.html
